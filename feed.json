@@ -15,7 +15,7 @@
             "url": "https://biocyclelab.github.io/sustainable-carbon-use/",
             "title": "Sustainable Carbon Use",
             "summary": "Sustainable solutions for current global challenges, such as the carbon budget, circular&hellip;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://biocyclelab.github.io/media/posts/12/laboratory-2815641.jpg\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://biocyclelab.github.io/media/posts/12/responsive/laboratory-2815641-xs.jpg 300w ,https://biocyclelab.github.io/media/posts/12/responsive/laboratory-2815641-sm.jpg 480w ,https://biocyclelab.github.io/media/posts/12/responsive/laboratory-2815641-md.jpg 768w ,https://biocyclelab.github.io/media/posts/12/responsive/laboratory-2815641-lg.jpg 1024w\">\n      \n    </figure>\n\n  <p>\n    Sustainable solutions for current global challenges, such as the carbon budget, circular economy, human health, and clean energy, through synthetic biology. My research program will focus on developing microbes as green cell factories with tailor-made catalysts that can convert biomass-derived feedstocks into fuels, valuable commodities, or pharmaceutical products. This research is centered around two short- term goals: 1) Developing designer catalysts via enzyme evolution to enhance the metabolic process and create new carbon sinks, and 2) Engineering green factories with designer catalysts that can simultaneously degrade lignocellulosic waste and produce valuable commodities. Over the next five years, my research program will prioritize the development of energy-efficient enzymes and improvements in metabolic engineering efforts to convert available biomass into valuable commodities, paving the way for sustainable chemistry.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://biocyclelab.github.io/media/posts/12/sample_figure.png\" height=\"234\" width=\"230\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://biocyclelab.github.io/media/posts/12/responsive/sample_figure-xs.png 300w ,https://biocyclelab.github.io/media/posts/12/responsive/sample_figure-sm.png 480w ,https://biocyclelab.github.io/media/posts/12/responsive/sample_figure-md.png 768w ,https://biocyclelab.github.io/media/posts/12/responsive/sample_figure-lg.png 1024w\">\n      \n    </figure>",
+            "content_html": "\n  <p>\n    Sustainable solutions for current global challenges, such as the carbon budget, circular economy, human health, and clean energy, through synthetic biology. Out lab focuses on developing microbes as green cell factories with tailor-made catalysts that can convert biomass-derived feedstocks into fuels, valuable commodities, and pharmaceuticals products.\n  </p>\n\n  <p>\n    This research is centered around two short- term goals:\n  </p>\n\n  <p>\n    1. Developing designer catalysts via enzyme evolution to enhance the metabolic process and create new carbon sinks\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://biocyclelab.github.io/media/posts/12/e3lab.png\" height=\"1050\" width=\"1536\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://biocyclelab.github.io/media/posts/12/responsive/e3lab-xs.png 300w ,https://biocyclelab.github.io/media/posts/12/responsive/e3lab-sm.png 480w ,https://biocyclelab.github.io/media/posts/12/responsive/e3lab-md.png 768w ,https://biocyclelab.github.io/media/posts/12/responsive/e3lab-lg.png 1024w\">\n      \n    </figure>\n\n  <p>\n    2. Engineering green factories with designer catalysts that can simultaneously degrade lignocellulosic waste and produce valuable commodities. Over the next five years, my research program will prioritize the development of energy-efficient enzymes and improvements in metabolic engineering efforts to convert available biomass into valuable commodities, paving the way for sustainable chemistry.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://biocyclelab.github.io/media/posts/12/sample_figure.png\" height=\"234\" width=\"230\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://biocyclelab.github.io/media/posts/12/responsive/sample_figure-xs.png 300w ,https://biocyclelab.github.io/media/posts/12/responsive/sample_figure-sm.png 480w ,https://biocyclelab.github.io/media/posts/12/responsive/sample_figure-md.png 768w ,https://biocyclelab.github.io/media/posts/12/responsive/sample_figure-lg.png 1024w\">\n      \n    </figure>",
             "image": "https://biocyclelab.github.io/media/posts/12/laboratory-2815641-2.jpg",
             "author": {
                 "name": "ism"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2026-03-24T14:10:25-07:00",
-            "date_modified": "2026-03-24T15:39:52-07:00"
+            "date_modified": "2026-11-13T10:39:15-08:00"
         },
         {
             "id": "https://biocyclelab.github.io/machine-learning-assisted-design/",
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2026-03-24T14:09:15-07:00",
-            "date_modified": "2026-03-24T15:40:22-07:00"
+            "date_modified": "2026-11-12T13:41:37-08:00"
         },
         {
             "id": "https://biocyclelab.github.io/metabolic-engineering-for-waste-valorization/",
@@ -53,14 +53,14 @@
             "tags": [
             ],
             "date_published": "2026-03-24T14:08:18-07:00",
-            "date_modified": "2026-11-10T10:42:04-08:00"
+            "date_modified": "2026-11-12T13:43:16-08:00"
         },
         {
             "id": "https://biocyclelab.github.io/continuous-directed-evolution/",
             "url": "https://biocyclelab.github.io/continuous-directed-evolution/",
             "title": "Continuous Directed Evolution",
             "summary": "Using CDE, we are developing and improving plastic degradation and contributing toward&hellip;",
-            "content_html": "\n  <p>\n    Using CDE, we are developing and improving plastic degradation and contributing toward a green economy.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://biocyclelab.github.io/media/posts/9/laboratory-2815641.jpg\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://biocyclelab.github.io/media/posts/9/responsive/laboratory-2815641-xs.jpg 300w ,https://biocyclelab.github.io/media/posts/9/responsive/laboratory-2815641-sm.jpg 480w ,https://biocyclelab.github.io/media/posts/9/responsive/laboratory-2815641-md.jpg 768w ,https://biocyclelab.github.io/media/posts/9/responsive/laboratory-2815641-lg.jpg 1024w\">\n      \n    </figure>\n\n  <p>\n    Find out more here\n  </p>",
+            "content_html": "\n  <p>\n    Using CDE, we are developing and improving plastic degradation and contributing toward a green economy.\n  </p>\n\n  <p>\n    Catalytic Cycles to Replacement (CCR) is a key parameter used to assess the longevity and efficiency of enzymes. A lower CCR indicates a shorter working life, requiring more frequent replacement through breakdown and resynthesis. In our lab, we identify enzymes with potential for improvement and apply advanced continuous directed evolution techniques, combined with machine learning, to enhance their performance. Additionally, we focus on evolving “good enough” enzymes to achieve even better functionality and efficiency.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://biocyclelab.github.io/media/posts/9/e3lab.png\" height=\"1050\" width=\"1536\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://biocyclelab.github.io/media/posts/9/responsive/e3lab-xs.png 300w ,https://biocyclelab.github.io/media/posts/9/responsive/e3lab-sm.png 480w ,https://biocyclelab.github.io/media/posts/9/responsive/e3lab-md.png 768w ,https://biocyclelab.github.io/media/posts/9/responsive/e3lab-lg.png 1024w\">\n      \n    </figure>\n\n  <p>\n    Find out more here\n  </p>",
             "image": "https://biocyclelab.github.io/media/posts/9/plant-8338691.jpg",
             "author": {
                 "name": "ism"
@@ -68,7 +68,7 @@
             "tags": [
             ],
             "date_published": "2026-03-24T14:06:21-07:00",
-            "date_modified": "2026-03-24T15:40:54-07:00"
+            "date_modified": "2026-11-12T10:16:04-08:00"
         }
     ]
 }

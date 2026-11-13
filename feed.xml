@@ -3,7 +3,7 @@
     <title>BioCycle Lab</title>
     <link href="https://biocyclelab.github.io/feed.xml" rel="self" />
     <link href="https://biocyclelab.github.io" />
-    <updated>2026-11-10T10:42:04-08:00</updated>
+    <updated>2026-11-13T10:39:15-08:00</updated>
     <author>
         <name>ism</name>
     </author>
@@ -29,13 +29,25 @@
             <![CDATA[
                     <p><img src="https://biocyclelab.github.io/media/posts/12/laboratory-2815641-2.jpg" class="type:primaryImage" alt="" /></p>
                 
+  <p>
+    Sustainable solutions for current global challenges, such as the carbon budget, circular economy, human health, and clean energy, through synthetic biology. Out lab focuses on developing microbes as green cell factories with tailor-made catalysts that can convert biomass-derived feedstocks into fuels, valuable commodities, and pharmaceuticals products.
+  </p>
+
+  <p>
+    This research is centered around two short- term goals:
+  </p>
+
+  <p>
+    1. Developing designer catalysts via enzyme evolution to enhance the metabolic process and create new carbon sinks
+  </p>
+
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://biocyclelab.github.io/media/posts/12/laboratory-2815641.jpg" height="2000" width="3000" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://biocyclelab.github.io/media/posts/12/responsive/laboratory-2815641-xs.jpg 300w ,https://biocyclelab.github.io/media/posts/12/responsive/laboratory-2815641-sm.jpg 480w ,https://biocyclelab.github.io/media/posts/12/responsive/laboratory-2815641-md.jpg 768w ,https://biocyclelab.github.io/media/posts/12/responsive/laboratory-2815641-lg.jpg 1024w">
+      <img loading="lazy" src="https://biocyclelab.github.io/media/posts/12/e3lab.png" height="1050" width="1536" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://biocyclelab.github.io/media/posts/12/responsive/e3lab-xs.png 300w ,https://biocyclelab.github.io/media/posts/12/responsive/e3lab-sm.png 480w ,https://biocyclelab.github.io/media/posts/12/responsive/e3lab-md.png 768w ,https://biocyclelab.github.io/media/posts/12/responsive/e3lab-lg.png 1024w">
       
     </figure>
 
   <p>
-    Sustainable solutions for current global challenges, such as the carbon budget, circular economy, human health, and clean energy, through synthetic biology. My research program will focus on developing microbes as green cell factories with tailor-made catalysts that can convert biomass-derived feedstocks into fuels, valuable commodities, or pharmaceutical products. This research is centered around two short- term goals: 1) Developing designer catalysts via enzyme evolution to enhance the metabolic process and create new carbon sinks, and 2) Engineering green factories with designer catalysts that can simultaneously degrade lignocellulosic waste and produce valuable commodities. Over the next five years, my research program will prioritize the development of energy-efficient enzymes and improvements in metabolic engineering efforts to convert available biomass into valuable commodities, paving the way for sustainable chemistry.
+    2. Engineering green factories with designer catalysts that can simultaneously degrade lignocellulosic waste and produce valuable commodities. Over the next five years, my research program will prioritize the development of energy-efficient enzymes and improvements in metabolic engineering efforts to convert available biomass into valuable commodities, paving the way for sustainable chemistry.
   </p>
 
     <figure class="post__image post__image--center">
@@ -143,8 +155,12 @@
     Using CDE, we are developing and improving plastic degradation and contributing toward a green economy.
   </p>
 
+  <p>
+    Catalytic Cycles to Replacement (CCR) is a key parameter used to assess the longevity and efficiency of enzymes. A lower CCR indicates a shorter working life, requiring more frequent replacement through breakdown and resynthesis. In our lab, we identify enzymes with potential for improvement and apply advanced continuous directed evolution techniques, combined with machine learning, to enhance their performance. Additionally, we focus on evolving “good enough” enzymes to achieve even better functionality and efficiency.
+  </p>
+
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://biocyclelab.github.io/media/posts/9/laboratory-2815641.jpg" height="2000" width="3000" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://biocyclelab.github.io/media/posts/9/responsive/laboratory-2815641-xs.jpg 300w ,https://biocyclelab.github.io/media/posts/9/responsive/laboratory-2815641-sm.jpg 480w ,https://biocyclelab.github.io/media/posts/9/responsive/laboratory-2815641-md.jpg 768w ,https://biocyclelab.github.io/media/posts/9/responsive/laboratory-2815641-lg.jpg 1024w">
+      <img loading="lazy" src="https://biocyclelab.github.io/media/posts/9/e3lab.png" height="1050" width="1536" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://biocyclelab.github.io/media/posts/9/responsive/e3lab-xs.png 300w ,https://biocyclelab.github.io/media/posts/9/responsive/e3lab-sm.png 480w ,https://biocyclelab.github.io/media/posts/9/responsive/e3lab-md.png 768w ,https://biocyclelab.github.io/media/posts/9/responsive/e3lab-lg.png 1024w">
       
     </figure>
 
